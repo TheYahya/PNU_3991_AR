@@ -7,7 +7,7 @@
 ### یحیی صیاداربابی
  
 ---
-- [PNU_3991_AR](https://github.com/TheYahya/PNU_3991)
+- [PNU_3991_AR](https://github.com/TheYahya/PNU_3991_AR)
 - [GitHub](https://github.com/TheYahya)
 - [Resume](https://theyahya.github.io/)
 - [SOP](https://theyahya.github.io/sop.html)
